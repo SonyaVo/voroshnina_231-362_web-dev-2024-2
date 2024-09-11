@@ -6,8 +6,13 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image: url("/image/back.avif");
-    /*color: #35302a;*/
+    background-image: url("../image/back.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+
+    color: #35302a;
+    /*background-color:  #988670;*/
+
     
 
 }
